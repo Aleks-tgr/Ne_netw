@@ -1,1 +1,1 @@
-### **Создание нейронной сети для обучения модели на dataset Fashion_Mnist.**
+### **Creating a neural network for training a model on the dataset Fashion_Mnist.**
